@@ -26,7 +26,7 @@ Bosco de Enrique Romeu - 100406718
 
 This file contains three python notebooks and three folders plus the report. 
 
-**Python notebooks brief summary:
+## Python notebooks brief summary:
 
  Web_scraping: It contains the code and explanations of our web scraping procedure.  ¡WARNING! If you are willing to execute the code of this notebook, be aware that it will take a long time in executing (it took us around 5 hours, even with "ray framework" parallelization).
 
@@ -41,7 +41,7 @@ Just change this:  |----------------------------------------------------|
 		     v				                     v
       local_folder = '/content/drive/MyDrive/ML Applications/Final Project/'
 
-**Description of the folders:
+## Description of the folders:
 
 Non-Clean Datasets: In it, we have stored the Data sets obtained with web scraping. The "firstphase.pickle" is the one which belongs to the outer web scraping (columns: [title,url, discipline name]). The "Dataset.pickle" is the one which belongs to the inner web scraping  	  	 [titles,Abstract,KeyWords,Authors,Journal,PublicationDate,Accesses,urls,target]).
 
