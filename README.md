@@ -6,10 +6,12 @@ We ended up producing a graph with the Gephi application, which allows us to bet
 
 ![alt-txt](https://github.com/claudio-sotillos/SpringerLink-Discipline-Prediction/blob/main/imgs/t1_r.png?raw=true)
 
-In <b>Task 2</b>, starting from the previous NLP analysis, we try to predict the discipline of the articles in the test subset, through different methods.   
-For more information, please read the "Report.pdf"
+In <b>Task 2</b>, starting from the previous NLP analysis, we try to predict the discipline of the articles in the test subset, through different methods.  
 
-You can also find the Web Scrapping Notebook used to extract the DataSet
+![alt-txt](https://github.com/claudio-sotillos/SpringerLink-Discipline-Prediction/blob/main/imgs/t2_r.png?raw=true)
+
+For more information, please read the "Report.pdf"
+You can also find the Web Scrapping Notebook used to extract the DataSet.
 
 
 
