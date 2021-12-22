@@ -7,6 +7,8 @@ We ended up producing a graph with the Gephi application, which allows us to bet
 In Task 2, starting from the previous NLP analysis, we try to predict the discipline of the articles in the test subset, through different methods.   
 For more information, please read the "Report.pdf"
 
+You can also find the Web Scrapping Notebook used to extract the DataSet
+
 
 
 
