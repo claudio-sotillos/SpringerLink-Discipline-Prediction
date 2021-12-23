@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://imgr.search.brave.com/hxFls3wUsjG3x2OhDpytyNlC3LY1OSA2mN7IwcOTWfA/fit/698/200/ce/1/aHR0cDovL3MzLmFt/YXpvbmF3cy5jb20v/bGliYXBwcy9hY2Nv/dW50cy80MjM1My9p/bWFnZXMvU3ByaW5n/ZXJMaW5rLmpwZw" alt="Sublime's custom image"/>
+</p>
+
 # SpringerLink-Discipline-Prediction
 In this project, we try to predict to which disciplines certain articles, books, and papers belong.  We have divided the work into two main tasks.  
 
